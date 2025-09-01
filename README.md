@@ -1,4 +1,4 @@
-Advanced RAG Chatbot with Streamlit 
+# Advanced RAG Chatbot with Streamlit 
 
 
 ## ⚙️ How It Works
